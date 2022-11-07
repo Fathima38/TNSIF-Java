@@ -5,7 +5,7 @@ class Sample3{
 		//throw new ("Exception occurs");
 	}
 	public void disp2() throws ArithmeticException{
-		//throw new ("Arithmetic exception occurs");
+		//throw new ("Arithmeticc exception occurs");
 	}
 }
 
