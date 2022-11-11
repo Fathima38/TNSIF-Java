@@ -5,6 +5,7 @@ class myRunnable implements Runnable{
 		for(int i=0;i<5;i++) {
 			System.out.println("Child method");
 		}
+		
 	}
 }
 
